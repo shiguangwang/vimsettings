@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/shiguang/.vim'
+let g:netrw_dirhist_2='/Users/shiguang/Dropbox/vim/bundle'
+let g:netrw_dirhist_3='/Users/shiguang/Dropbox/vim/bundle/vim-latex-1.8.23-20130116.788-git2ef9956'
+let g:netrw_dirhist_4='/Users/shiguang/Dropbox/vim/bundle/vim-latex-1.8.23-20130116.788-git2ef9956/ftplugin'
+let g:netrw_dirhist_5='/Users/shiguang/Dropbox/Papers/InSubmission'
+let g:netrw_dirhist_6='/Users/shiguang/Dropbox/Papers/InSubmission/EM-Category'
+let g:netrw_dirhist_7='/Users/shiguang/Dropbox/Papers/InSubmission/EM-Category/IPSN2015_Shiguang_writeup'
